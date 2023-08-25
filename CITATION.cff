@@ -4,8 +4,8 @@ authors:
 - family-names: "Sleptchenko"
   given-names: "Andrei"
   orcid: "https://orcid.org/0000-0001-7188-5692"
-title: "BreadcrumbsMulti-Class-Queueing-systems"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github-linguist/linguist"
+title: "Multi-Class Queueing systems"
+version: 1.0.0
+doi: 10.1023/A:1023209813523
+date-released: 2020-01-01
+url: "https://github.com/dipsav/Multi-Class-Queueing-systems/"
